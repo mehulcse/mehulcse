@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer working in Pune, India.
+#### I'm a Front-End Developer working in Pune, India:india:.
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️ I use daily: `.js`, `react`, `.graphql`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `alexa skills`
