@@ -12,4 +12,4 @@
 
 ---
 
-<img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
+<img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" />
