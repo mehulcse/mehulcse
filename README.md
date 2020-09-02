@@ -2,12 +2,6 @@
 
 #### I'm a Front-End Developer working in Pune, India :india:.
 
-<p>
-  <a href="https://twitter.com/mehulcse">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/mehulcse?style=for-the-badge">
-  </a>
-</p>
-
 <a href="https://github.com/mehulcse"><img align="right" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite" /></a>
 
 - 🏢 I'm currently working at [**Tech9**](https://tech9.com/)
