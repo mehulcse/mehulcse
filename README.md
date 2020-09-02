@@ -17,5 +17,3 @@
 - 💬 Ask me about **development**, **design thinking**, **front end technologies**, **alexa skills**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/mehulcse/)
 - ⚡ Fun fact: I'm a huge fan of Avengers(Team Iron Man). 
-
----
