@@ -13,5 +13,3 @@
 
 
 <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
-
-<a href="https://github.com/mehulcse"><img align="right" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=mehulcse" /></a>
