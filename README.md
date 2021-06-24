@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Open source projects(JS || React)**
 - 💬 Ask me about **development**, **design thinking**, **front end technologies**, **alexa skills**
 - 📫 Reach me @ [Linkedin](https://www.linkedin.com/in/mehulcse/)
-- ⚡ Fun fact: I'm a huge fan of Avengers(Team Iron Man). 
+- ⚡ Fun fact: I'm a huge fan of Avengers(Team Iron Man).
 
 
 <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
