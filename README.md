@@ -13,3 +13,6 @@
 
 
 <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
+
+
+<a href="https://stackexchange.com/users/9275452"><img src="https://stackexchange.com/users/flair/9275452.png?theme=dark" width="208" height="58" alt="profile for Mehul Thakkar on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Mehul Thakkar on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
