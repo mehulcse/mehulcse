@@ -24,3 +24,5 @@
 <a href="https://stackoverflow.com/users/6888239/mehul-thakkar"><img src="https://stackoverflow.com/users/flair/6888239.png?theme=dark" width="208" height="58" alt="profile for Mehul Thakkar at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Mehul Thakkar at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 ------
+<a href="https://skyline.github.com/mehulcse/2021" title="Mehul's 2021 GitHub Skyline">
+<img width="100%" alt="Mehul's 2021 GitHub Skyline" src="https://user-images.githubusercontent.com/7822793/143218469-a9d1de64-ddc8-4e8c-bfe8-09d19d3f35dd.png" /></a>
