@@ -15,6 +15,8 @@
 
 <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a>
 
+------
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mehulcse&theme=onedark&row=2&column=4)](https://github.com/mehulcse/github-profile-trophy)
 
 ------
