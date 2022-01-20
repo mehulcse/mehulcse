@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Developer working in Pune, India :india:
+#### I'm a Software Developer from India :india:
 
 
 - 🏢  I'm currently working at [**Tech9**](https://tech9.com/)
