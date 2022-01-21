@@ -18,7 +18,7 @@
 
 ------
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6888239)](https://stackoverflow.com/users/6888239/mehul-thakkar) |[![trophy](https://github-profile-trophy.vercel.app/?username=mehulcse&theme=onedark&row=2&column=4)](https://github.com/mehulcse/github-profile-trophy)|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6888239&theme=dark)](https://stackoverflow.com/users/6888239/mehul-thakkar) |[![trophy](https://github-profile-trophy.vercel.app/?username=mehulcse&theme=onedark&row=2&column=4)](https://github.com/mehulcse/github-profile-trophy)|
 |---|---|
 
 ------
