@@ -18,7 +18,7 @@
 
 ------
 
-|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6888239)](https://stackoverflow.com/users/6888239/mehul-thakkar) |<img src="https://github-readme-streak-stats.herokuapp.com/?&user=mehulcse"/>|
+|[![stackoverflow card](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=6888239)](https://stackoverflow.com/users/6888239/mehul-thakkar) |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehulcse&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 |---|---|
 
 ------
