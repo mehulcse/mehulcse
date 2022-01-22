@@ -13,7 +13,7 @@
 
 ------
 
-| <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehulcse&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| <a href="https://github.com/mehulcse"><img align="left" alt="Mehul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mehulcse&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mehulcse&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 |---|---|
 
 ------
