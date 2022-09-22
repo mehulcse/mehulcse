@@ -5,10 +5,11 @@
 
 - 🏢  I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️  I use daily: `.js`, `react`, `.graphql`, `.go`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `alexa skills`
-- 🌱  I’m currently learning `.go`, `AWS`
+- 🌱  I’m currently learning `remix`, `rust` and, `AWS`.
+- ✅  `Patent Granted` on [Step through process of generating custom jewelry](https://uspto.report/patent/grant/11348155)
 - 👯  I’m looking to collaborate on **Open source projects(JS || React)**
 - 💬  Ask me about **development**, **design thinking**, **front end technologies**, **alexa skills**
-- 📫  Reach me @ [Linkedin](https://www.linkedin.com/in/mehulcse/).
+- 📫  Reach me @ [Linkedin](https://www.linkedin.com/in/mehulcse/) or know more about me on my [Portfolio](https://mehulcse.com) website. 
 - ⚡  Fun fact: I'm a huge fan of Avengers(Team Iron Man).
 
 ------
@@ -26,4 +27,6 @@
 <img width="100%" alt="Mehul's 2021 GitHub Skyline" src="https://user-images.githubusercontent.com/7822793/143218469-a9d1de64-ddc8-4e8c-bfe8-09d19d3f35dd.png" /></a>
 
 Leave a ⭐ from [here](https://github.com/mehulcse/mehulcse) if you like 😁
+
+![](https://komarev.com/ghpvc/?username=mehulcse&style=flat-square) Since 22nd Sept 2022.
 
