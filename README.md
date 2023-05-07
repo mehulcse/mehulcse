@@ -3,7 +3,6 @@
 #### I'm a Software Developer from India :india:
 
 
-- 🏢  I'm currently working at [**Tech9**](https://tech9.com/)
 - ⚙️  I use daily: `.js`, `react`, `.graphql`, `.go`, `.ts`, `next`, `.html`, `.css`, `.svg`, `AWS`, `react-native`, `alexa skills`
 - 🌱  I’m currently learning `remix`, `rust` and, `AWS`.
 - ✅  `Patent Granted` on [Step through process of generating custom jewelry](https://uspto.report/patent/grant/11348155)
